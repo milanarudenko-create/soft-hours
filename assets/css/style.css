@@ -151,7 +151,7 @@ details p {
 
 .slot.empty {
   background: transparent;
-  border: 1px dashed #ff0000;
+  border: 1px dashed black;
 }
 
 
